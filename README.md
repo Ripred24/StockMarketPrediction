@@ -23,12 +23,12 @@ pip install yfinance pandas numpy matplotlib scikit-learn tensorflow statsmodels
 
 ## Project Structure
 ```
-/
-├── ARIMA.ipynb            # ARIMA modeling for stock index prediction
-├── baseline_models.ipynb  # Naïve and simple moving average baselines
-├── FBProphet.ipynb        # Forecasting with Facebook Prophet
-├── LSTM_NN.ipynb          # Deep learning LSTM model with technical indicators
-├── MLP_NN.ipynb           # Neural network MLP model with technical indicators
+
+─ ARIMA.ipynb            # ARIMA modeling for stock index prediction
+─ baseline_models.ipynb  # Naïve and simple moving average baselines
+─ FBProphet.ipynb        # Forecasting with Facebook Prophet
+─ LSTM_NN.ipynb          # Deep learning LSTM model with technical indicators
+─ MLP_NN.ipynb           # Neural network MLP model with technical indicators
 ```
 
 ---
